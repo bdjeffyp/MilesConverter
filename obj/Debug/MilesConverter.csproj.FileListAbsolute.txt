@@ -1,0 +1,6 @@
+C:\Users\wwstudent\documents\visual studio 2017\Projects\MilesConverter\MilesConverter\bin\Debug\MilesConverter.exe.config
+C:\Users\wwstudent\documents\visual studio 2017\Projects\MilesConverter\MilesConverter\bin\Debug\MilesConverter.exe
+C:\Users\wwstudent\documents\visual studio 2017\Projects\MilesConverter\MilesConverter\bin\Debug\MilesConverter.pdb
+C:\Users\wwstudent\documents\visual studio 2017\Projects\MilesConverter\MilesConverter\obj\Debug\MilesConverter.exe
+C:\Users\wwstudent\documents\visual studio 2017\Projects\MilesConverter\MilesConverter\obj\Debug\MilesConverter.pdb
+C:\Users\wwstudent\documents\visual studio 2017\Projects\MilesConverter\MilesConverter\obj\Debug\MilesConverter.csprojResolveAssemblyReference.cache
